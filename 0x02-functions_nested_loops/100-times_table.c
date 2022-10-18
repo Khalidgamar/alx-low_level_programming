@@ -1,9 +1,7 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * print_times_table - prints times table for numbers from 0-14
- *
  * @n: An input integer value
- *
  * Return: Nothing
  */
 void print_times_table(int n)
@@ -21,12 +19,9 @@ _putchar('\n');
 }
 }
 /**
- *  * putformat - formatted characters to output
- *
- *   * @n: number to format
- *
- *    * Return: nothing
- *
+ * putformat - formatted characters to output
+ * @n: number to format
+ * Return: nothing
  */
 void putformat(int n)
 {
